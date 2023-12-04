@@ -1,3 +1,3 @@
 Author : Hsinghua Lu
 
-Project Detail : build a simple application that performs statistical analysis on a data set. 
+Project Detail : Create a simple application to perform statistical analysis on a dataset. 
