@@ -9,7 +9,7 @@
  *
  *****************************************************************************/
 /**
- * @file Week1_stats.c
+ * @file stats.c
  * @brief Write several functions that analyze a set of unsigned character data
  * items and report the analysis results for the maximum, minimum, average, and
  * median values of the data set.
